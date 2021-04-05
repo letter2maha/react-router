@@ -1,0 +1,9 @@
+.orgList {
+  display: flex;
+  /* justify-content: center; */
+  justify-content: space-evenly;
+}
+
+button {
+  align-content: space-between;
+}
